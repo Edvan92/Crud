@@ -10,13 +10,13 @@ typedef struct{
     char nome[30];   
 }Produto;
 
-//VARIÁVEIS UTILIZADAS  
+//VARIÃVEIS UTILIZADAS  
 int opcao;
 static int entradaProduto = 0;
 static Produto produtos[50];      
 static int codigoProduto = 0;  
 
-//PRÓTOIPO DA FUNÇÃO UTILIZADA
+//PROTÃ“TIPO DA FUNÃ‡ÃƒO UTILIZADA
 void cadastro();
 void listar();
 void excluir();
@@ -28,7 +28,7 @@ int main(){
     setlocale(LC_ALL,"Portuguese");
     
     int menu_nav;
-	//MENU DE NAVEGAÇÃO 
+	//MENU DE NAVEGAÃ‡ÃƒO 
     do{
        	
 		layout();
@@ -85,13 +85,13 @@ int main(){
 
 }
 
-//FUNÇÕES UTILIZADAS   
+//FUNÃ‡Ã•ES UTILIZADAS   
 void layout(){
 	printf("\t\t\t===================================================================\n");
     printf("\t\t\t|\t\t\t SUPERMERCADO TEM DE NADA   \t\t  |\n");
     printf("\t\t\t===================================================================\n\n");
 }
-//FUNÇÃO PARA CADASTRAR PRODUTOS
+//FUNÃ‡ÃƒO PARA CADASTRAR PRODUTOS
 void cadastro(){
 	printf("\t\t\t\t\t\t#########################\n");
 	printf ("\t\t\t\t\t\t#  CADASTRO DE PRODUTO  #\n");
@@ -108,7 +108,7 @@ void cadastro(){
     sleep(1);
     system("cls");
 }
-//FUNÇÃO PARA MOSTRAR OS PRODUTOS CADASTRADOS
+//FUNÃ‡ÃƒO PARA MOSTRAR OS PRODUTOS CADASTRADOS
 void listar(){
 		
     if (entradaProduto > 0){
@@ -127,13 +127,13 @@ void listar(){
 
     }
     else{
-        printf("\t\t\t\t\t AINDA NÃO TEMOS PRODUTOS CADASTRADOS.\n\n");
+        printf("\t\t\t\t\t AINDA NÃƒO TEMOS PRODUTOS CADASTRADOS.\n\n");
         sleep(1);
         
     }
    
 }
-//FUNÇÃO UTILIZADA PARA ECLUIR UM INTEM CADASTRADO
+//FUNÃ‡ÃƒO UTILIZADA PARA ECLUIR UM INTEM CADASTRADO
 void excluir(){
     printf("\t\t\t\t\t\t#####################\n");
     printf("\t\t\t\t\t\t#  EXCLUIR PRODUTO #\n\n");
@@ -158,7 +158,7 @@ void excluir(){
     sleep(1);
 
 }
-//FUNÇÃO UTILIZADA PARA EDITAR UM PRODUTO CADASTRADO
+//FUNÃ‡ÃƒO UTILIZADA PARA EDITAR UM PRODUTO CADASTRADO
 void editar(){
 	printf("\t\t\t\t\t\t######################\n");
 	printf("\t\t\t\t\t\t#   EDITAR PRODUTO   #\n");
