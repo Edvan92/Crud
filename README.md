@@ -7,13 +7,13 @@ Sobre o Projeto:
 
 Esta aplicação foi criada como um exercício para desenvolver habilidades de programação e raciocínio lógico. O foco principal reside na manipulação de dados de estoque, permitindo a realização das seguintes operações:
 
-Adicionar Produtos: Através desta funcionalidade, os usuários podem inserir novos produtos no sistema, fornecendo informações como nome, quantidade e preço unitário.
+1- Adicionar Produtos: Através desta funcionalidade, os usuários podem inserir novos produtos no sistema, fornecendo informações como nome, quantidade e preço unitário.
 
-Listar Produtos: A aplicação possibilita a visualização de todos os produtos presentes no estoque, oferecendo uma visão panorâmica dos itens disponíveis.
+2- Listar Produtos: A aplicação possibilita a visualização de todos os produtos presentes no estoque, oferecendo uma visão panorâmica dos itens disponíveis.
 
-Renomear Produtos: Os usuários têm a capacidade de atualizar os nomes dos produtos, fornecendo maior flexibilidade na descrição dos itens.
+3- Renomear Produtos: Os usuários têm a capacidade de atualizar os nomes dos produtos, fornecendo maior flexibilidade na descrição dos itens.
 
-Deletar Produtos: Caso seja necessário, os produtos podem ser removidos do estoque através desta funcionalidade.
+4- Deletar Produtos: Caso seja necessário, os produtos podem ser removidos do estoque através desta funcionalidade.
 
 Objetivos Educacionais:
 
@@ -27,7 +27,7 @@ Gestão de Dados: Os participantes têm a chance de compreender como os dados s�
 
 Instruções de Uso:
 
-Para compilar e executar a aplicação, certifique-se de ter um compilador C instalado em seu ambiente.
+Para compilar e executar a aplicação, certifique-se de ter um compilador C instalado em seu ambiente ou baixe o executável.
 Siga as instruções de compilação fornecidas no arquivo de instruções.
 Contribuições:
 
@@ -39,4 +39,4 @@ Esta aplicação C.R.U.D foi concebida como uma ferramenta educacional para apri
 
 Atenciosamente,
 
-Edivan Silva
+Edivan Silva!
