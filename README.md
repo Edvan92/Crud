@@ -7,17 +7,17 @@ Sobre o Projeto:
 
 Esta aplicação foi criada como um exercício para desenvolver habilidades de programação e raciocínio lógico. O foco principal reside na manipulação de dados de estoque, permitindo a realização das seguintes operações:
 
-1- Adicionar Produtos: Através desta funcionalidade, os usuários podem inserir novos produtos no sistema, fornecendo informações como nome, quantidade e preço unitário.
+1- Adicionar Produtos: Através desta funcionalidade, os usuários podem inserir novos produtos no sistema, fornecendo informações como nome.
 
 2- Listar Produtos: A aplicação possibilita a visualização de todos os produtos presentes no estoque, oferecendo uma visão panorâmica dos itens disponíveis.
 
-3- Renomear Produtos: Os usuários têm a capacidade de atualizar os nomes dos produtos, fornecendo maior flexibilidade na descrição dos itens.
+3- Renomear Produtos: Os usuários têm a capacidade de atualizar os nomes dos produtos.
 
 4- Deletar Produtos: Caso seja necessário, os produtos podem ser removidos do estoque através desta funcionalidade.
 
 Objetivos Educacionais:
 
-Este projeto tem como objetivo fornecer uma oportunidade de aprendizado prático com ênfase em diversos aspectos:
+Este projeto tem como objetivo fornecer uma oportunidade de aprendizado prático com importância em diversos aspectos:
 
 Linguagem C: Os participantes podem aprimorar suas habilidades de programação em linguagem C, explorando conceitos como manipulação de strings, estruturas de controle e funções.
 
